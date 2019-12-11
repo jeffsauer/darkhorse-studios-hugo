@@ -60,7 +60,7 @@ publishdir = "docs"
     enable = true
     image = "img/wrapper-img.png"
     title = "About Us"
-    italic = "Located in the small town of Overgaard, tucked away in a remote location of the Mogollon Rim in Northern Arizona, Darkhorse Studios concentrates on bringing technical solutions to local consumers, business, and non-profit organizations."
+    italic = "Located in the small town of Overgaard, tucked away in a remote location of the Mogollon Rim in Northern Arizona, Darkhorse Studios concentrates on bringing technical solutions to local consumers, businesses, and non-profit organizations."
     paragraph = "We provide computer repair services and also low cost solutions for website / logo design. We also have laser engraving / laser cutting / 3D printing machinery to assist in custom crafted physical prototypes."
 
   [params.blog]
@@ -72,7 +72,7 @@ publishdir = "docs"
     enable = true
     title = "We believe in great ideas"
     bgImage = "img/feature-bg.jpg"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    content = "Let us help you get that idea of yours implemented.  Darkhorse Studios can turn your idea into real world objects using 3D printed / Laser cut parts, or get it published onto the world wide web via a lost cost website that can be hosted for free."
     [params.feature.button]
       caption = "View Works"
       url = "#"
@@ -80,8 +80,8 @@ publishdir = "docs"
   [params.call]
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "We can assist with both physical and digital design."
+    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself the quality of our work and the results we’ve achieved for our clients."
     [params.call.button]
       url = "#"
       text = "tell us your story"
@@ -97,9 +97,9 @@ publishdir = "docs"
       message = "Your message"
       button = "Send message"
     [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
+      title = "Contact Us"
+      address = "Hwy 260 Overgaard, Arizona 85933"
+      email = "Email: jsauer@jouledata.com"
+      phone = "Phone: +1.408.394.1037"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = "Google Maps"
